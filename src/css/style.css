@@ -185,12 +185,12 @@ h2 {
     background-color: #e0eff9;
 }
 
-.btn-close img {
+.close-64 img {
     filter: grayscale(100%);
     cursor: pointer;
 }
 
-.btn-close:hover img {
+.close-64:hover img {
     filter: none;
 }
 
